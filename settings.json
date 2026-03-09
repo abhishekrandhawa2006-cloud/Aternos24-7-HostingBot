@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Schollars.aternos.me",
+    "ip": "Schollars.aternos.me:11246",
     "port": 11246,
     "version": "1.21.1"
   },
