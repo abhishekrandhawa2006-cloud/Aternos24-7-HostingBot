@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Schollars.aternos.me:11246",
+    "ip": "Schollars.aternos.me",
     "port": 11246,
     "version": "1.21.1"
   },
@@ -26,7 +26,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
